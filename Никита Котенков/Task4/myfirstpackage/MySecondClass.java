@@ -25,7 +25,7 @@ public class MySecondClass {
         i2 = num;
     }
 
-    public int xor() {
-        return i1 ^ i2;
+    public int sum() {
+        return i1 + i2;
     }
 }
